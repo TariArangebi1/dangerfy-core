@@ -10,11 +10,12 @@ A simulator that models how Dangerfy detects potential danger and escalates a re
 3. **Stage 2: Check-in** — stronger prompt if no response
 4. **Stage 3: Alert** — emergency contacts notified if no response
 
-This repo starts as a plain JS practice space and grows into a full React + Node/Express app with a live deployment, following a day-by-day build plan running **Sep 3 → Oct 7**.
+This repo started as a plain JS practice space and grows into a full React + Node/Express app with a live deployment, following a day-by-day build plan running **Sep 3 → Oct 7**. (Not the primary startup focus anymore — kept alive as a coding practice project. See startup research notes for more on that decision.)
 
 ## Progress log
-- **3 Sep** ✅ — Repo initialized, Git & GitHub basics, first commit pushed. Wrote and ran first JS script (variables, types, template literals).
-- **4 Sep** — JS functions (arrow functions, params/returns).
+- **3 Sep** ✅ — Repo initialized, Git & GitHub basics, first commit pushed. First JS script (variables, types, template literals).
+- **4 Sep** ✅ — Functions: declarations, arrow syntax, default parameters, template literals, functions as arguments (reusable logic — the pattern React uses for event handlers).
+- **6 Sep** ✅ — Array methods (`map`, `filter`) and objects (dot/bracket notation, arrays of objects, filtering by property) — built a mock emergency contacts list and filtered it, the actual data shape Dangerfy's alert system will use.
 
 ## Stack (planned)
 - Frontend: React (Vite)
@@ -29,4 +30,4 @@ This repo starts as a plain JS practice space and grows into a full React + Node
 - **Week 5 (Oct 1–7):** Backend data layer + live deployment
 
 ## Why this exists
-Built as part of a daily coding grind (Sep 3 – Oct 7) to go from "knows what I want to build" to "can actually build it," ahead of degree apprenticeship applications.
+Built as part of a daily coding grind (Sep 3 – Oct 7) to get comfortable with JS/React/Node ahead of degree apprenticeship applications and startup work more broadly.
