@@ -13,7 +13,7 @@ const taxRate = prices.map((n) => n + n * 0.2);
 console.log(taxRate);
 
 const overThirty = prices.filter((n) => n > 30);
-console.log(overThirty);
+console.log(overThirty); 
 
 //objects
 const contact ={

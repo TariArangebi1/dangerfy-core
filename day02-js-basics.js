@@ -15,7 +15,7 @@ const isEven2 = (number) => {
 };
 console.log(isEven2(4));
 
-const isPositive2 = (number) => {
+const isPositive2 = (number) => {              
     return number > 0;
 };
 console.log(isPositive2(-1));
