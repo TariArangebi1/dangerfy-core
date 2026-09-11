@@ -18,7 +18,6 @@ const fetchUserCount = async () => {
     }
  };
 
-
 console.log("Starting fetch...");
 fetchUserCount();
 console.log("This logs first!");

@@ -1,0 +1,24 @@
+{
+  "name": "dangerfy-core",
+  "version": "1.0.0",
+  "description": "Software prototype of Dangerfy's staged nudge escalation logic — the \"brain\" behind the wearable concept.",
+  "main": "day01-js-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TariArangebi1/dangerfy-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TariArangebi1/dangerfy-core/issues"
+  },
+  "homepage": "https://github.com/TariArangebi1/dangerfy-core#readme",
+  "dependencies": {
+    "chalk": "^6.0.0"
+  }
+}
